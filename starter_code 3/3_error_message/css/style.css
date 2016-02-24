@@ -1,0 +1,41 @@
+h1 h2 {
+	font-family: Arial;
+}
+
+body {
+	font-family: Arial;
+	line-height: 1.5;
+}
+
+code {
+	border: 1px solid #D3D3D3;
+	padding: 2px;
+	border-radius: 3px;
+	background-color: #F1F1F1;
+}
+
+#notification {
+	border: 1px solid #D3D3D3;
+	background-color: #F1F1F1;
+	padding: 10px;
+	margin: 8px 0px;
+}
+
+.message {
+	border: 1px solid #D3D3D3;
+	padding: 2px;
+	background-color: #FFFFE5;
+	padding: 10px;
+	margin: 8px 0px;
+}
+
+.error {
+	background-color: #ffe5e5;
+	border: 1px solid #b30000;
+
+} 
+
+.success {
+	background-color: #e0fde0;
+	border: 1px solid #004c00;
+}

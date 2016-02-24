@@ -1,0 +1,49 @@
+
+header, #main, aside, footer, .placeholder {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+}
+
+header {
+	border: 2px solid #acacac;
+	padding: 5px;
+	background-color: #D3D3D3;
+	height: 182px; 
+	width:1223px;
+	margin: 20px 0;
+	clear:both;
+}
+
+
+aside {
+	border: 2px solid #acacac;
+	padding: 5px;
+	background-color: #D3D3D3;
+	height: 504px; 
+	width:595px;
+	margin: 0 20px 0 0px;
+	float:left;
+}
+
+section {
+	border: 2px solid #acacac;
+	padding: 5px;
+	background-color: #D3D3D3;
+	height: 222px; 
+	width:385px;
+	margin: 20px 20px 20px 0;
+	float: left;
+}
+
+
+footer {
+ 	border: 2px solid #acacac;
+	padding: 5px;
+	background-color: #D3D3D3;
+	height: 182px; 
+	width:1223px;
+	margin: 20px 0;
+	clear: both;
+
+}
+
